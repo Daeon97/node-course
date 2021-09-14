@@ -1,2 +1,2 @@
 # node-course
- A Node.js app based on a Udemy Course while i was learning Node.js 
+ An app based on a udemy course while i was learning Node.js 
